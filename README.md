@@ -20,4 +20,4 @@ This is the code for my watering system consisting of:
 - 2 x switches
 - 3D printed enclosure, connectors and adapters
 
-A schematic is provided [here](https://github.com/ChristofferRa/water_thing/water_thing_schematic.pdf)
+A schematic is provided [here](https://github.com/ChristofferRa/water_thing/blob/main/water_thing_schematic.pdf)
